@@ -1,0 +1,14 @@
+{
+  LinearLayout;
+  layout_height="fill";
+  orientation="horizontal";
+  layout_width="fill";
+  {
+    Button;
+    id="nn";
+  };
+  {
+    TextView;
+    text="你忘啦不上班是不是不上班睡吧睡吧睡吧睡吧是不是啥疯疯傻傻你忘啦不上班是不是不上班睡吧睡吧睡吧睡吧是不是啥疯疯傻傻你忘啦不上班是不是不上班睡吧睡吧睡吧睡吧是不是啥疯疯傻傻你忘啦不上班是不是不上班睡吧睡吧睡吧睡吧是不是啥疯疯傻傻";
+  };
+};
